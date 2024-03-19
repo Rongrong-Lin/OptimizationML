@@ -1,1 +1,1 @@
-The codes for the book on Optimization Theory and Machine Learning
+The codes for the book on Optimization Method and Machine Learning
